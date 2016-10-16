@@ -1,0 +1,8 @@
+# build files and folders
+target
+
+# IDE files and folders
+.idea
+
+# open files
+*.swp
