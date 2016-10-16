@@ -3,6 +3,6 @@ Repository for random javafx tutorials and learning, as well as small sample pro
 # Included projects
 
 ## Simple Drawing
-folder: firstDrawing
+**/firstDrawing**
 
 Exploring different ways of drawing objects with javafx libraries.
